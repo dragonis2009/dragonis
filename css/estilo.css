@@ -1,0 +1,43 @@
+body{
+	background: pink;
+	color:purple;
+}
+
+h1 {
+	color:yellow; 
+}
+	
+p{
+	color:orange;
+}   
+li{
+	color:red;
+}
+.img1{
+	width: 20%;
+}
+.img2{
+	width: 20%;
+}
+nav{
+	background: #251E99;
+	padding: 10px;
+	text-align: right;
+}
+li{
+
+
+
+
+
+        display: inline;
+         padding: 10px;
+         color: white;
+}
+.principal {
+	background: url('../img/fondo1.png');
+	text-align: center;
+	height: 400px;
+	background-size: 100%;
+	padding-top: 100px;
+}
